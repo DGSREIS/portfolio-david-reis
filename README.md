@@ -1,38 +1,36 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>David Reis - Meu Perfil</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# 💻 Portfólio Pessoal - David Reis
 
-  <h1>David Gabriel dos Santos Reis</h1>
- 
-  <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
-  <img src="david.png.png" alt="Minha imagem de perfil" width="150">
-  <a href="https://www.linkedin.com/in/david-gabriel-a2330819a/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
-  </a>
+Bem-vindo ao meu primeiro projeto como estudante de programação! 🚀
 
-  <h3>Sobre mim</h3>
-  <p>Tenho 22 anos, moro em São Paulo – SP, e atuo há 9 meses como Assistente de T.I. na empresa Job Home, com foco em suporte técnico e resolução de chamados, formatação e manutenção de computadores e notebooks, além da configuração de redes, roteadores e impressoras.</p>
+## 👨‍💻 Sobre mim
 
-  <p>Tenho domínio dos sistemas operacionais Windows 10/11, conhecimentos avançados em Excel e no Pacote Office, com experiência no controle de dados e criação de planilhas para organização de processos e suporte técnico. Também utilizo diariamente ferramentas como AnyDesk, Active Directory e VPNs.</p>
+Sou David Gabriel dos Santos Reis, tenho 22 anos e moro em **São Paulo – SP**.  
+Atualmente trabalho como **Assistente de T.I. na empresa Job Home**, atuando com suporte técnico, manutenção de equipamentos, redes, controle de dados e planilhas.
 
-  <p>Atualmente, estou focado no aprendizado de programação, com ênfase em desenvolvimento front-end. Estou em constante evolução, buscando construir uma carreira sólida como programador e crescer profissionalmente na área de tecnologia.</p>
+Nas horas vagas, estou focado no estudo de **desenvolvimento front-end**. Esse portfólio representa meu primeiro passo nessa jornada como programador!
 
-  <h3>Interesses</h3>
-  <ul>
-    <li>HTML e CSS</li>
-    <li>Front-End</li>
-    <li>Suporte Técnico</li>
-  </ul>
+## ✨ Funcionalidades
 
-  <footer>
-    <hr>
-    <p>&copy; 2025 - David Reis</p>
-  </footer>
+- Apresentação pessoal
+- Informações profissionais e acadêmicas
+- Foto de perfil
+- Link direto para meu [LinkedIn](https://www.linkedin.com/in/david-gabriel-a2330819a/)
 
-</body>
-</html>
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- Markdown (README)
+
+## 📷 Imagem do projeto
+
+*(Você pode adicionar uma imagem aqui futuramente)*
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/david-gabriel-a2330819a/)
+- E-mail: (adicione aqui se quiser)
+
+---
+
+**Esse é só o começo. Em breve, novos projetos estarão por aqui!**
+
