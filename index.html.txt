@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>David Reis - Meu Perfil</title>
+</head>
+<body>
+<link rel="stylesheet" href="style.css">
+
+  <h1>David Reis</h1>
+  <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
+<img src="david.png" alt="Minha imagem de perfil" width="150">
+<a href="https://www.linkedin.com/in/david-gabriel-a2330819a/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
+</a>
+
+
+
+
+  <h3>Sobre mim</h3>
+  <p>Sou Estudante de ADS e atuo há 6 meses como Assistente de T.I., com experiência no atendimento e resolução de chamados técnicos, além da formatação e manutenção de computadores e notebooks. Tenho domínio dos sistemas operacionais Windows 10/11 e Linux Ubuntu, com conhecimentos avançados em Excel e no pacote Office. Utilizo ferramentas como AnyDesk e Active Directory no suporte diário, além de ter experiência com configuração de redes e uso de VPNs. Estou em constante evolução, buscando uma carreira sólida na área de segurança da informação.</p>
+
+  <h3>Interesses</h3>
+  <ul>
+    <li>HTML e CSS</li>
+    <li>Segurança da Informação</li>
+    <li>Front-End</li>
+    <li>Suporte Técnico</li>
+  </ul>
+
+  <footer>
+    <hr>
+    <p>&copy; 2025 - David Reis</p>
+  </footer>
+
+</body>
+</html>
+
